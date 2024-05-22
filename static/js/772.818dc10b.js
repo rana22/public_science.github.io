@@ -1,1 +1,0 @@
-(self.webpackChunkICDC_Frontend=self.webpackChunkICDC_Frontend||[]).push([[772],{70772:()=>{}}]);
